@@ -1,3 +1,3 @@
 # emotion [alpha]
 
-A simple text emotion analysis tool
+A simple text emotion analysis tool.
