@@ -45,7 +45,7 @@ def score(word):
     else:
         score =  raw_input("Unknown word '" + word + "': Enter emotion score: ")
         add_score(word, score)
-        return score
+        return score 
 
 def add_score(word, score):
     with open('words.db', 'rb') as db_file:
